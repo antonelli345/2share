@@ -1,0 +1,68 @@
+*{
+    font-family: Poppins;
+    
+}
+.logo{
+    text-align: center;
+    font-size: 2em;  
+    font-weight: bolder;
+    color: rgb(235, 61, 61);
+
+    
+}
+
+
+.login{
+    position: absolute;
+    top: 2.5em;
+    right: 10.5em;
+    ;
+}
+
+.logon{
+    position: absolute;
+    top: 2.5em;
+    right: 2em;
+}
+
+
+.searchmodel{
+    margin: 50px;
+    text-align: center;
+}
+
+
+.icon{
+    border: solid red 1px;
+    padding: 10px 45px 10px 45px;
+
+}
+
+#border{
+    border: solid red 1px;
+    text-align: center;
+    padding: 100px;
+}
+
+#bg{
+    background: #e2e5e7;
+    padding-top: 40px;
+    
+    box-sizing: border-box;
+    
+
+
+}
+
+.center{
+    text-align: center;
+}
+
+a.test {
+    display: inline-flex;
+    padding: 30px;
+    border: solid red 1px;
+}
+
+
+
